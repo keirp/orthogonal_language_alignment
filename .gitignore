@@ -1,0 +1,13 @@
+*.pdf
+*.png
+*.v1
+*.v2
+*.wordlist
+*.vec
+*.csv
+analyze_alignment/data
+analyze_alignment/.ipynb_checkpoints
+compute-alignment/linear_alignments
+compute-alignment/nel-translation-pairs
+compute-alignment/nel-vectors
+*.DS_Store
